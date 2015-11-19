@@ -6,4 +6,7 @@ A Multi-Purpose Reponsive Bootstrap Template
 
 ## Credits
 
-* [Visit GitHub!](https://www.github.com)
+* [Bootstrap](http://getbootstrap.com/)
+* [Pexels](http://pexels.com)
+* [WOW.js](https://github.com/matthieua/WOW)
+* [Animate.css](https://github.com/daneden/animate.css)
