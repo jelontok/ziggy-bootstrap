@@ -12,3 +12,4 @@ A Multi-Purpose Reponsive Bootstrap Template
 * [Pexels](http://pexels.com)
 * [WOW.js](https://github.com/matthieua/WOW)
 * [Animate.css](https://github.com/daneden/animate.css)
+* [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
